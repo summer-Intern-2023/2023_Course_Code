@@ -37,7 +37,7 @@ def increment_36m(r):
 
 
 def bisection_search():
-    global initial_deposit
+    #global initial_deposit
     low = 0
     high = 10000
     steps = 0

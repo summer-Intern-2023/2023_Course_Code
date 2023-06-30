@@ -1,5 +1,3 @@
-# Problem Set 1 C: Finding the right amount to save away
-# Name Jiachen Li
 import math
 
 initial_deposit = float(input("Enter the starting salary:"))

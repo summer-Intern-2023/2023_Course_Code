@@ -8,7 +8,7 @@ class TestMatch(unittest.TestCase):
         self.assertEqual(test01, 142)
         
     def test_case02(self):
-        test02 = part_b(80000, .1, 800000, .05)
+        test02 = part_b(80000, .1, 800000, .03)
         self.assertEqual(test02, 159)
     
     def test_case03(self):
